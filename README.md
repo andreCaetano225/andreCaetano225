@@ -1,4 +1,4 @@
 <h1>Olá😄<h1/>
 ___________________________________________________________________________________________________________________________________________________________________________________
-💻Skills: HTML, CSS3, JavaScript, React <br>
-💼 Ferramentas: VS Code, Figma, Git, GitHub
+💻Skills: HTML, CSS3, JavaScript, React 
+💼 Ferramentas: VS Code, Figma, Git, GitHub <br>
