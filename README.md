@@ -1,4 +1,7 @@
-<h1>Olá😄<h1/>
-<hr>
-💻Skills: HTML, CSS3, JavaScript, TypeScript, React, Styled-Components <br/>
-💼 Ferramentas: VS Code, Figma, Git, GitHub <br/>
+<h1>Hi😄<h1/>
+<hr/>
+ I'm a Font-End developer, passionate about the best technologies.
+Having experience in projects using Typescript, ReactJS.
+ <hr>
+💻Skills: ReactJS | Javascript | Typescript | NextJS | Styled-Components | Sass<br/>
+💼 Tools: VS Code, Figma, Git, GitHub <br/>
