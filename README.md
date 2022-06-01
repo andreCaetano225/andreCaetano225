@@ -1,4 +1,4 @@
-<h1 align = "justify"> Hi there 👋 I'm André!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<h1 align = "justify"> Hi there 👋 I'm André!</h1> 
 <p align = "justify">André é um desenvolvedor Front-End, atualmente trabalhando com ReactJS e estudando NodeJS para se tornar um desenvolvedor completo. Sou um entusiasta da Tecnologia que busco explorar a capacidade de facilitar de forma eficaz e eficiente para os diversos problemas da sociedade.</p>
 
 
