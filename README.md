@@ -20,10 +20,7 @@
 
 ## ⚡ GitHub Estatísticas
 
-<div>
-  <a href="https://github.com/andreCaetano225">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-</div> 
+
   
   ##
   
