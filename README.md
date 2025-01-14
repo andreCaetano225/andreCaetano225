@@ -1,5 +1,5 @@
 <h1 align = "justify"> Hi there 👋 I'm André!</h1> 
-<p align = "justify">André é um desenvolvedor Front-End, atualmente trabalhando com ReactJS e estudando NodeJS para se tornar um desenvolvedor completo. Sou um entusiasta da Tecnologia que busco explorar a capacidade de facilitar de forma eficaz e eficiente para os diversos problemas da sociedade.</p>
+<p align = "justify">Sou um desenvolvedor apaixonado por encontrar soluções simples para problemas difíceis, com mais de 4 anos de experiência em desenvolvimento. Me considero um entusiasta de métodos ágeis, ambientes flexíveis e entrega contínua.</p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-sousa-dev/)](https://www.linkedin.com/in/andre-sousa-dev/)
